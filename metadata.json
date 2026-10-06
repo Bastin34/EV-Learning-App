@@ -1,0 +1,6 @@
+{
+  "name": "VOLTX - EV Engineering Simulator & Virtual Laboratory",
+  "description": "Comprehensive professional-grade EV digital twin, BMS laboratory, power electronics simulator, motor control & CAN network virtual engineering suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
